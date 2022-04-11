@@ -1,0 +1,16 @@
+  758  git checkout main
+  759  cat README.md
+  760  git branch
+  761  git branch milkshake-flavours
+  762  git checkout milkshake-flavours
+  763  git branch
+  764  nano milkshakes.md
+  765  git status
+  766  git add milkshakes.md
+  767  git commit -m "added initial flavours"
+  768  git log
+  769  git checkout main
+  770  git branch history
+  771  git checkout history
+  772  git log
+  773  git branch
